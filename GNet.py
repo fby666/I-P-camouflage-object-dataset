@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-@author: caigentan@AnHui University
+@author: fby
 @software: PyCharm
-@file: SwinTransformer.py
-@time: 2021/5/6 7:23
+@file: GNet.py
+@time: 2022/5/6 7:23
 """
 import torch
 import torch.nn as nn
